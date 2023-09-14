@@ -1,0 +1,108 @@
+---
+object: card
+id: 363a68cc-276d-4445-8d6a-7fa495f2d948
+oracle_id: d001febc-d511-4e65-a631-91dc9415056b
+multiverse_ids: []
+tcgplayer_id: 162766
+cardmarket_id: 250100
+name: Pyrokinesis
+lang: en
+released_at: '1997-08-13'
+uri: https://api.scryfall.com/cards/363a68cc-276d-4445-8d6a-7fa495f2d948
+scryfall_uri: https://scryfall.com/card/wc97/pm78/pyrokinesis?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/6/363a68cc-276d-4445-8d6a-7fa495f2d948.jpg?1562906439
+  normal: https://cards.scryfall.io/normal/front/3/6/363a68cc-276d-4445-8d6a-7fa495f2d948.jpg?1562906439
+  large: https://cards.scryfall.io/large/front/3/6/363a68cc-276d-4445-8d6a-7fa495f2d948.jpg?1562906439
+  png: https://cards.scryfall.io/png/front/3/6/363a68cc-276d-4445-8d6a-7fa495f2d948.png?1562906439
+  art_crop: https://cards.scryfall.io/art_crop/front/3/6/363a68cc-276d-4445-8d6a-7fa495f2d948.jpg?1562906439
+  border_crop: https://cards.scryfall.io/border_crop/front/3/6/363a68cc-276d-4445-8d6a-7fa495f2d948.jpg?1562906439
+mana_cost: "{4}{R}{R}"
+cmc: 6.0
+type_line: Instant
+oracle_text: |-
+  You may exile a red card from your hand rather than pay this spell's mana cost.
+  Pyrokinesis deals 4 damage divided as you choose among any number of target creatures.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 8b791ead-c9b5-42fa-9ffb-43f178af5ac8
+set: wc97
+set_name: World Championship Decks 1997
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/8b791ead-c9b5-42fa-9ffb-43f178af5ac8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awc97&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wc97?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/363a68cc-276d-4445-8d6a-7fa495f2d948/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad001febc-d511-4e65-a631-91dc9415056b&unique=prints
+collector_number: pm78
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "Anybody want some . . . *toast*?"
+  —Jaya Ballard, Task Mage
+card_back_id: ae9f9ff4-cc75-4c6b-a029-cb9cc92a8502
+artist: Ron Spencer
+artist_ids:
+- dab52c11-0564-4207-a4a1-c1735c946a65
+illustration_id: 00e98981-ddbc-42f7-a33f-07874e6927a8
+border_color: gold
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 5688
+prices:
+  usd: '1.70'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.40'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Pyrokinesis&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Pyrokinesis&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Pyrokinesis
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/162766?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pyrokinesis&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Pyrokinesis&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

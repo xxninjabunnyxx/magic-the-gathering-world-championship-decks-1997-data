@@ -1,0 +1,110 @@
+---
+object: card
+id: 5459f9c7-4363-4187-a2fd-9031b697534f
+oracle_id: d361bdd4-afb8-493d-9091-ebe22f215834
+multiverse_ids: []
+tcgplayer_id: 164444
+cardmarket_id: 250065
+name: Ghazbán Ogre
+lang: en
+released_at: '1997-08-13'
+uri: https://api.scryfall.com/cards/5459f9c7-4363-4187-a2fd-9031b697534f
+scryfall_uri: https://scryfall.com/card/wc97/sg298/ghazb%C3%A1n-ogre?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/4/5459f9c7-4363-4187-a2fd-9031b697534f.jpg?1562912615
+  normal: https://cards.scryfall.io/normal/front/5/4/5459f9c7-4363-4187-a2fd-9031b697534f.jpg?1562912615
+  large: https://cards.scryfall.io/large/front/5/4/5459f9c7-4363-4187-a2fd-9031b697534f.jpg?1562912615
+  png: https://cards.scryfall.io/png/front/5/4/5459f9c7-4363-4187-a2fd-9031b697534f.png?1562912615
+  art_crop: https://cards.scryfall.io/art_crop/front/5/4/5459f9c7-4363-4187-a2fd-9031b697534f.jpg?1562912615
+  border_crop: https://cards.scryfall.io/border_crop/front/5/4/5459f9c7-4363-4187-a2fd-9031b697534f.jpg?1562912615
+mana_cost: "{G}"
+cmc: 1.0
+type_line: Creature — Ogre
+oracle_text: At the beginning of your upkeep, if a player has more life than each
+  other player, the player with the most life gains control of Ghazbán Ogre.
+power: '2'
+toughness: '2'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 8b791ead-c9b5-42fa-9ffb-43f178af5ac8
+set: wc97
+set_name: World Championship Decks 1997
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/8b791ead-c9b5-42fa-9ffb-43f178af5ac8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awc97&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wc97?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5459f9c7-4363-4187-a2fd-9031b697534f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad361bdd4-afb8-493d-9091-ebe22f215834&unique=prints
+collector_number: sg298
+digital: false
+rarity: common
+flavor_text: |-
+  "We were holding our own—until the ogre guiding us suddenly grinned and turned on our commander."
+  —Ivra Jursdotter, Sarpadian mercenary
+card_back_id: ae9f9ff4-cc75-4c6b-a029-cb9cc92a8502
+artist: Mike Raabe
+artist_ids:
+- d29cd67f-30a7-4fb9-a081-36c3d5982442
+illustration_id: 76810b17-9f8f-46b7-8b95-15147455809f
+border_color: gold
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 24675
+penny_rank: 10458
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '0.13'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ghazb%C3%A1n+Ogre&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ghazb%C3%A1n+Ogre&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Ghazb%C3%A1n+Ogre
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/164444?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ghazb%C3%A1n+Ogre&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ghazb%C3%A1n+Ogre&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

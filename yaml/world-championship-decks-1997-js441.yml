@@ -1,0 +1,102 @@
+---
+object: card
+id: c0408cbd-ac97-46d5-b2a9-594c8c078a75
+oracle_id: 56719f6a-1a6c-4c0a-8d21-18f7d7350b68
+multiverse_ids: []
+tcgplayer_id: 162301
+name: Swamp
+lang: en
+released_at: '1997-08-13'
+uri: https://api.scryfall.com/cards/c0408cbd-ac97-46d5-b2a9-594c8c078a75
+scryfall_uri: https://scryfall.com/card/wc97/js441/swamp?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/0/c0408cbd-ac97-46d5-b2a9-594c8c078a75.jpg?1562935656
+  normal: https://cards.scryfall.io/normal/front/c/0/c0408cbd-ac97-46d5-b2a9-594c8c078a75.jpg?1562935656
+  large: https://cards.scryfall.io/large/front/c/0/c0408cbd-ac97-46d5-b2a9-594c8c078a75.jpg?1562935656
+  png: https://cards.scryfall.io/png/front/c/0/c0408cbd-ac97-46d5-b2a9-594c8c078a75.png?1562935656
+  art_crop: https://cards.scryfall.io/art_crop/front/c/0/c0408cbd-ac97-46d5-b2a9-594c8c078a75.jpg?1562935656
+  border_crop: https://cards.scryfall.io/border_crop/front/c/0/c0408cbd-ac97-46d5-b2a9-594c8c078a75.jpg?1562935656
+mana_cost: ''
+cmc: 0.0
+type_line: Basic Land — Swamp
+oracle_text: "({T}: Add {B}.)"
+colors: []
+color_identity:
+- B
+keywords: []
+produced_mana:
+- B
+legalities:
+  standard: legal
+  future: legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: legal
+  historicbrawl: legal
+  alchemy: legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 8b791ead-c9b5-42fa-9ffb-43f178af5ac8
+set: wc97
+set_name: World Championship Decks 1997
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/8b791ead-c9b5-42fa-9ffb-43f178af5ac8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awc97&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wc97?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c0408cbd-ac97-46d5-b2a9-594c8c078a75/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A56719f6a-1a6c-4c0a-8d21-18f7d7350b68&unique=prints
+collector_number: js441
+digital: false
+rarity: common
+card_back_id: ae9f9ff4-cc75-4c6b-a029-cb9cc92a8502
+artist: Andrew Robinson
+artist_ids:
+- cb577db7-7f47-4f78-8682-6eaef8a77bd1
+illustration_id: 17e68ea7-c90a-4b3c-b230-2aee77879521
+border_color: gold
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+prices:
+  usd: '1.54'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Swamp&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Swamp&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Swamp
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/162301?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Swamp&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Swamp&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
